@@ -31,7 +31,7 @@
             html, body {
                 background-color: #ffffff !important;
                 font-family: 'Open Sans', sans-serif !important;
-                color: #333333 !important;
+                color: #000 !important;
             }
 
             /* Navigation / Seitenleiste */
